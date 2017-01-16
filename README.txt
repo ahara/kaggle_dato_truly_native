@@ -1,6 +1,8 @@
-Dato Creators Award winning solution in Kaggle competition [Dato: Truly Native?](https://www.kaggle.com/c/dato-native)
+# Dato Creators Award winning solution in Kaggle competition Dato: Truly Native?
+https://www.kaggle.com/c/dato-native
 
-Steps to build model (in Linux):
+## Steps to build model (in Linux):
+
 1. Expected directories structure:
 	(d) <parent directory>
 		(d) data
